@@ -1,0 +1,11 @@
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.exe
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.deps.json
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.runtimeconfig.json
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.runtimeconfig.dev.json
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.dll
+D:\Crossarch\Other Files\MVS\XOTraining\bin\Debug\netcoreapp3.1\XOTraining.pdb
+D:\Crossarch\Other Files\MVS\XOTraining\obj\Debug\netcoreapp3.1\XOTraining.csprojAssemblyReference.cache
+D:\Crossarch\Other Files\MVS\XOTraining\obj\Debug\netcoreapp3.1\XOTraining.AssemblyInfoInputs.cache
+D:\Crossarch\Other Files\MVS\XOTraining\obj\Debug\netcoreapp3.1\XOTraining.AssemblyInfo.cs
+D:\Crossarch\Other Files\MVS\XOTraining\obj\Debug\netcoreapp3.1\XOTraining.dll
+D:\Crossarch\Other Files\MVS\XOTraining\obj\Debug\netcoreapp3.1\XOTraining.pdb
